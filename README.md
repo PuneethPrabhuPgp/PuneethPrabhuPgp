@@ -17,9 +17,11 @@ I love the idea of seeing/visiting an actual planet other than Earth and imagini
 ## Also interested in
 * Machine Learning, Data Science, and Open AI chat GPT, Bard...
 
-<br/>
-You can also find me on...
-[<img src="Downloads">]()
+## 🤝 Connect with me on
+[<img alt="Puneeth | Linkedin" width="40px" src="images/linkedin.png"/>](https://www.linkedin.com/in/puneeth-g-prabhu-610071228/)  &nbsp;   &nbsp;
+[<img alt="Puneeth | Linkedin" width="40px" src="images/twitter.png"/>](https://twitter.com/PuneethGPrabhu1)  &nbsp;   &nbsp;
+[<img alt="Puneeth | Linkedin" width="40px" src="images/stackoverflow.png"/>](https://stackoverflow.com/users/10069953/puneeth-g-prabhu)  &nbsp;  &nbsp;
+[<img alt="Puneeth | Linkedin" width="40px" src="images/dev.png"/>](https://dev.to/puneethprabhu)  &nbsp;   &nbsp;
 
 <br/>
 Cheers,<br/>
