@@ -19,7 +19,7 @@ I love the idea of seeing/visiting an actual planet other than Earth and imagini
 
 <br/>
 You can also find me on...
-[<img src="https://twitter.com/LinkedIn/photo">]()
+[<img src="Downloads">]()
 
 <br/>
 Cheers,<br/>
