@@ -1,7 +1,8 @@
 # Hello :wave: I'm Puneeth 
 
 ## About Me
-I am a full-stack web developer from India 🇮🇳. <br/>I am working as a Software application developer at [Mercedes-Benz Research & Development India](https://www.mbrdi.co.in/#/)
+I am a full-stack web developer from India [<img alt="Puneeth | India" width="40px" src="images/india.png"/>]()  &nbsp;   &nbsp; 🇮🇳. 
+<br/>I am working as a Software application developer at [Mercedes-Benz Research & Development India](https://www.mbrdi.co.in/#/)
 <br/><br/>
 I love the idea of seeing/visiting an actual planet other than Earth and imagining how it would feel to interact with the environment while trying to figure out the nature of stuff all around.
 
@@ -19,9 +20,9 @@ I love the idea of seeing/visiting an actual planet other than Earth and imagini
 
 ## 🤝 Connect with me on
 [<img alt="Puneeth | Linkedin" width="40px" src="images/linkedin.png"/>](https://www.linkedin.com/in/puneeth-g-prabhu-610071228/)  &nbsp;   &nbsp;
-[<img alt="Puneeth | Linkedin" width="40px" src="images/twitter.png"/>](https://twitter.com/PuneethGPrabhu1)  &nbsp;   &nbsp;
-[<img alt="Puneeth | Linkedin" width="40px" src="images/stackoverflow.png"/>](https://stackoverflow.com/users/10069953/puneeth-g-prabhu)  &nbsp;  &nbsp;
-[<img alt="Puneeth | Linkedin" width="40px" src="images/dev.png"/>](https://dev.to/puneethprabhu)  &nbsp;   &nbsp;
+[<img alt="Puneeth | X" width="40px" src="images/twitter.png"/>](https://twitter.com/PuneethGPrabhu1)  &nbsp;   &nbsp;
+[<img alt="Puneeth | StackOverflow" width="40px" src="images/stackoverflow.png"/>](https://stackoverflow.com/users/10069953/puneeth-g-prabhu)  &nbsp;  &nbsp;
+[<img alt="Puneeth | Dev" width="40px" src="images/dev.png"/>](https://dev.to/puneethprabhu)  &nbsp;   &nbsp;
 
 <br/>
 Cheers,<br/>
