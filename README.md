@@ -1,7 +1,7 @@
 # Hello :wave: I'm Puneeth 
 
 ## About Me
-I am a full-stack web developer from India [<img alt="Puneeth | India" width="40px" src="images/india.png"/>]()  &nbsp;   &nbsp; 🇮🇳. 
+I am a full-stack web developer from India [<img alt="Puneeth | India" width="15px" src="images/india.png"/>]()  &nbsp; 🇮🇳. 
 <br/>I am working as a Software application developer at [Mercedes-Benz Research & Development India](https://www.mbrdi.co.in/#/)
 <br/><br/>
 I love the idea of seeing/visiting an actual planet other than Earth and imagining how it would feel to interact with the environment while trying to figure out the nature of stuff all around.
