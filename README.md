@@ -18,5 +18,9 @@ I love the idea of seeing/visiting an actual planet other than Earth and imagini
 * Machine Learning, Data Science, and Open AI chat GPT, Bard...
 
 <br/>
+You can also find me on...
+[<img src="https://twitter.com/LinkedIn/photo">]()
+
+<br/>
 Cheers,<br/>
 Puneeth G Prabhu
