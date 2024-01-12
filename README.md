@@ -12,8 +12,9 @@ I love the idea of seeing/visiting an actual planet other than Earth and imagini
 * Backend: Node JS, Express JS, Nest JS, ASP.NET Core Web API
 * Databases: MS SQL Server
 * Tools: Visual Studio Code, Visual Studio, GitHub, SQL Server management studio, Jira, Confluence
-* Know about Microservices, RabbitMQ, Docker, Kubernetes, GitHub Actions
-* 🌱 I’m currently learning React, front end system design, and backend system design.
+* Know about Microservices, RabbitMQ.
+* Basic knowledge of Docker, Github Actions for CI/CD, and Kubernetes.
+* 🌱 I’m currently learning React, front-end system design, and back-end system design.
 
 ## Also interested in
 * Machine Learning, Data Science, and Open AI chat GPT, Bard...
