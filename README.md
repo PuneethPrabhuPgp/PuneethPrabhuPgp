@@ -13,7 +13,7 @@ I love the idea of seeing/visiting an actual planet other than Earth and imagini
 * Databases: MS SQL Server
 * Tools: Visual Studio Code, Visual Studio, GitHub, SQL Server management studio, Jira, Confluence
 * Know about Microservices, RabbitMQ.
-* Basic knowledge of Docker, Github Actions for CI/CD, and Kubernetes.
+* Basic knowledge of Docker, Github Actions for CI/CD, and Kubernetes, AWS.
 * 🌱 I’m currently learning React, front-end system design, and back-end system design.
 
 ## Also interested in
