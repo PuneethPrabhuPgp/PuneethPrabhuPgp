@@ -8,13 +8,13 @@ I love the idea of seeing/visiting an actual planet other than Earth and imagini
 
 ## Technologies
 
-* FrontEnd: JavaScript, jQuery, Angular, React basics
+* FrontEnd: JavaScript, jQuery, React, Angular (previously worked).
 * Backend: Node JS, Express JS, Nest JS, ASP.NET Core Web API
-* Databases: MS SQL Server
-* Tools: Visual Studio Code, Visual Studio, GitHub, SQL Server management studio, Jira, Confluence
+* Databases: Relational (Postgres, MS SQL Server) , Non-relational (MongoDb)
+* Tools: Visual Studio Code, Visual Studio, GitHub, SQL Server management studio, PgAdmin, Jira, Confluence.
 * Know about Microservices, RabbitMQ.
 * Basic knowledge of Docker, Github Actions for CI/CD, and Kubernetes, AWS.
-* 🌱 I’m currently learning React, front-end system design, and back-end system design.
+* 🌱 I’m currently learning front-end system design, and back-end system design, AWS cloud computing and Open AI - chatGpt.
 
 ## Also interested in
 * Machine Learning, Data Science, and Open AI chat GPT, Bard...
